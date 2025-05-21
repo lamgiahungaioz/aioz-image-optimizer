@@ -1,1 +1,1 @@
-module github.com/lamgiahungaioz/aioz-image-optimizer
+package github.com/lamgiahungaioz/aioz-image-optimizer
